@@ -2,7 +2,7 @@
 
 An interactive data science web app that analyzes your Spotify listening history and uses machine learning to uncover hidden patterns in your music taste.
 
-**[Live Demo →](https://music-taste-visualizer-6q5ertplxvtg83uixzuvsv.streamlit.app/?code=AQD7bPawnjW6YkFCbGbamTIbaoBDQyf_GOPYP0MNoXS82mJswno2TuXY3yr8HV-8OIEozOzPgtcoGPWx12HPmvbyVaDzVFYn9hXoKcnh1IYvpvK1FKXjbqSKRWPuQYKGibWoglUaajfXmHtUYpuir9SjhvLAvXE4stMyErl6XAWE2eVASH8jUBJJSTi39UqINAsXJBQajVJWvwSjFBOoDm14Wi0K0ofd1gH-rzVYZqabfThst8wr)**
+**[Live Demo →](https://music-taste-visualizer-6q5ertplxvtg83uixzuvsv.streamlit.app/)**
 
 ---
 
